@@ -1,8 +1,8 @@
 [
   {
     "id": "885b59c0eee29b92",
-    "username": "ss@sahin",
-    "password": "ss@sahin",
+    "username": "ss0sahin",
+    "password": "ss0sahin",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
@@ -11,6 +11,6 @@
     "username": "user2",
     "password": "pass2",
     "expiresAt": "2025-11-30",
-    "allowOffline": false
+    "allowOffline": true
   }
 ]
