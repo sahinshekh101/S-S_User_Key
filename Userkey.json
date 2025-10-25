@@ -1,31 +1,16 @@
-{
-  "licenses": [
-    {
-      "key": "sahin101",
-      "device_id": "fcab36fe-2a0b-4353-a778-f7b1c08a118b",
-      "expiry_date": "2025-12-31",
-      "active": true,
-      "status": "active",
-      "created_date": "2025-10-20",
-      "max_devices": 1
-    },
-    {
-      "key": "alpha@123",
-      "device_id": "b0f4640d-4dc6-4cdd-a543-cc2a0577f33a", 
-      "expiry_date": "2015-12-30",
-      "active": true,
-      "status": "active",
-      "created_date": "2024-01-15",
-      "max_devices": 1
-    },
-    {
-      "key": "TEST-0000-DEMO-1111",
-      "device_id": "",
-      "expiry_date": "2024-12-31",
-      "active": false,
-      "status": "inactive",
-      "created_date": "2024-01-01",
-      "max_devices": 1
-    }
-  ]
-}
+[
+  {
+    "id": "6d95fal7c7e40bea",
+    "username": "dpmods",
+    "password": "dpmods",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  }
+]
